@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>SBOT</dc:creator>
+  <dc:description>Sox_Emails_Sendemail: In this Process we will have Oracle report and previous month month fie placed in shared drive from there bot picks the files and applies the required formulae andmanipulations on Data and generate each individual file basis property column to send the file's to their respective PM's of Properties. </dc:description>
+  <dc:identifier>SOX_Emails_Sendemail</dc:identifier>
+  <version>1.0.4</version>
+  <keywords>VisualBasic VB UiPathStudioProcess</keywords>
+  <lastModifiedBy>NuGet.Packaging, Version=6.1.0.106, Culture=neutral, PublicKeyToken=31bf3856ad364e35;</lastModifiedBy>
+</coreProperties>

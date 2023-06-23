@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Exception Occured</title>
+	</head>
+	<body>
+		<br>Hi {0},</br>
+		<br>
+		<br>Please see the attached Project Status SOX 60 Days No Activity report for your review and action.</br>
+		<br>The report features pre-defined SOX questions in column Z that are based on the project status. To answer the question, select Yes/No in the drop-down menu in column AA.  This will prompt any follow up action, if needed, in the next columns ending in column AC. </br>
+		<br></br>
+		<br>Should a status update be required, please make the change in Oracle.</br>
+		<br></br>
+		<br>It's critical that all costs are received and all PO's are closed prior to changing the status to Pending FA Close. To check if there are any open PO's associated with a Project, run the <B><U>Open PO with Project Number</U></B> report from Coupa (See snip below).</br>
+		<br></br>
+		<br>When updating the status to Substantially Complete, the substantially complete date must be added to the Additional information tab in the project Manage Financial Project Settings in Oracle.</br>
+		<br>
+		<br>Kindly provide your responses, update any statuses in Oracle, and reply with the attachment directly to this email no later than EOD, {2}.</br>
+		<br></br>
+                <br><img src="{1}"></br>
+		<br>
+		<br></br>
+		<p style="font-family: Calibri (Body);font-size: 10pt; "><B>Kind Regards,</B></p>
+		<p ><b style="font-family: Lucida Handwriting;font-size: 10pt; color: #41047E;">Capital Accounting</b>
+		<br>Email:SoxEmail@mgmresorts.com
+                <br><img src="{3}"></br></p>
+		<br>
+	</body>
+</html>

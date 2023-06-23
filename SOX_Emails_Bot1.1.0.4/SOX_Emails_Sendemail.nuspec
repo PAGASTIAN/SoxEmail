@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>SOX_Emails_Sendemail</id>
+    <version>1.0.4</version>
+    <title>SOX_Emails_Sendemail</title>
+    <authors>SBOT</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sox_Emails_Sendemail: In this Process we will have Oracle report and previous month month fie placed in shared drive from there bot picks the files and applies the required formulae andmanipulations on Data and generate each individual file basis property column to send the file's to their respective PM's of Properties.</description>
+    <tags>VisualBasic VB UiPathStudioProcess</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1">
+        <dependency id="Microsoft.Office.Interop.Outlook" version="[15.0.4797.1004]" />
+        <dependency id="UiPath.Excel.Activities" version="[2.12.3]" />
+        <dependency id="UiPath.Mail.Activities" version="[1.18.2]" />
+        <dependency id="UiPath.System.Activities" version="[22.10.4]" />
+        <dependency id="UiPath.Testing.Activities" version="[22.4.2]" />
+        <dependency id="UiPath.UIAutomation.Activities" version="[22.4.5]" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
